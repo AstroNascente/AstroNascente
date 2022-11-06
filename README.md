@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @AstroNascente
+- 🌱 I’m currently learning C++ C JS HTML CSS Java
